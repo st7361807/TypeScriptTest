@@ -1,0 +1,1 @@
+This repository is about doing the first practical work on TypeScript
